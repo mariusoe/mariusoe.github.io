@@ -66,3 +66,19 @@ body {
 #imprint span {
   margin: 0 12px;
 }
+
+.inspectit {
+  font-size: 16px;
+  font-weight: 300;
+  margin-top: 8em;
+}
+
+.inspectit a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.inspectit a:hover {
+  text-decoration: underline;
+}
